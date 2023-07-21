@@ -1,0 +1,15 @@
+{
+    "contact": "",
+    "templates": [
+      {
+        "name": "rQSMP2023",
+        "sources": [
+          "https://i.imgur.com/aAYzfd2.png"
+        ],
+        "x": 381,
+        "y": 414
+      }
+    ],
+    "whitelist": [],
+    "blacklist": []
+  }
